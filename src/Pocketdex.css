@@ -1,0 +1,17 @@
+.Pocketdex{
+    text-align: center
+}
+
+.Pocketdex-cards{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Pocketdex-winner{
+    color: green
+}
+
+.Pocketdex-loser{
+    color: lightcoral
+}
